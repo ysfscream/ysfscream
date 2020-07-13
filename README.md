@@ -1,6 +1,6 @@
 ### 😬 Hi, I am [Ysfscream](https://ysfscream.xyz)
 
-#### 🔭 I am currently working on ...
+#### 🔭 I am currently working ...
 
 - Work at [@EMQ X](https://emqx.io) as a software engineer
 - Developer and maintainer of [MQTTX](https://mqttx.app)
