@@ -1,4 +1,4 @@
-### Hi, I am [Ysfscream](https://ysfscream.xyz) 😬
+### 😬 Hi, I am [Ysfscream](https://ysfscream.xyz)
 
 #### 🔭 I am currently working on [@EMQ X](https://emqx.io) as a software engineer
 
