@@ -2,7 +2,7 @@
 
 #### 🔭 I am currently working ...
 
-- Work at [@EMQ X](https://emqx.io) as a software engineer
+- Work at [EMQ X](https://emqx.io) as a software engineer
 - Developer and maintainer of [MQTTX](https://mqttx.app)
 
 #### 🌱 I’m currently learning ...
