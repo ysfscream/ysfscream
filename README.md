@@ -13,7 +13,6 @@
 
 ### 📫 How to reach me
 
-- Email on the left
-- [Twitter](https://twitter.com/biantoumy)
+- `Email` and `Twitter` on the left
 
 ### 🚬 To be Continue ...
